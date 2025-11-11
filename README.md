@@ -31,7 +31,6 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="50"/> </a>
-<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> </a>
@@ -40,7 +39,6 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactnative" width="50" height="50"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="50" height="50"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
 <a href="https://unity.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="50" height="50"/> </a>
 
@@ -50,4 +48,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=eroscodex&show_icons=true&locale=en&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=eroscodex&show_icons=true&locale=en)
-![Streak](https://github-readme-streak-stats.demolab.com/?user=eroscodex)  <!-- updated working streak service -->
