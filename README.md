@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-<a href="https://fb.com/karl.nicko.alondra" target="_blank">
+<a href="https://www.facebook.com/alondra.karl" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="50" height="50"/>
 </a>
-<a href="https://instagram.com/knalondra" target="_blank">
+<a href="https://www.instagram.com/wais_karl/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="50" height="50"/>
 </a>
 
