@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eroscodex&theme=onedark&no-frame=true&row=1&margin-w=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=eroscodex&theme=flat&no-frame=true&margin-w=15&v=1" />
   </a>
 </p>
 
@@ -56,11 +56,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eroscodex&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eroscodex&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eroscodex&layout=compact&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eroscodex&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&v=1" />
 </p>
 
 ---
