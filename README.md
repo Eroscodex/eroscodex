@@ -5,13 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=eroscodex&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400&v=5" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eroscodex&theme=flat" />
-    <img src="https://github-profile-trophy.vercel.app/?username=eroscodex&theme=dracula" />
-    <img src="https://github-profile-trophy.vercel.app/?username=eroscodex&theme=tokyonight" />
-  </a>
-</p>
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=eroscodex)](https://github.com/ryo-ma/github-profile-trophy)>
+
 
 ---
 
@@ -57,13 +53,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eroscodex&show_icons=true&theme=tokyonight&cache_seconds=86400&v=5" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eroscodex&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&v=5" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=eroscodex&show_icons=true&locale=en&layout=compact) 
+![Stats](https://github-readme-stats.vercel.app/api?username=eroscodex&show_icons=true&locale=en)
 
 ---
 
