@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=eroscodex&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400&v=5" />
 </p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=eroscodex)](https://github.com/ryo-ma/github-profile-trophy)  
-
-
 
 ---
 
@@ -51,12 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=eroscodex&show_icons=true&locale=en&layout=compact) 
-![Stats](https://github-readme-stats.vercel.app/api?username=eroscodex&show_icons=true&locale=en)
-
----
 
 ## 🎯 Current Focus
 
