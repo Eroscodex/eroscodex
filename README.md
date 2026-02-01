@@ -5,8 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=eroscodex&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400&v=5" />
 </p>
 
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=eroscodex)](https://github.com/ryo-ma/github-profile-trophy)  
+</div>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=eroscodex)](https://github.com/ryo-ma/github-profile-trophy)>
 
 
 ---
